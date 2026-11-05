@@ -1,0 +1,1 @@
+You can download this two files: main.cpp and main.qml, and add it to your project. By the way, you probably got issue with image in qml code, just add your image in your project and set source to your image
